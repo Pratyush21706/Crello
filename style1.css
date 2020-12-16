@@ -96,7 +96,7 @@ button{
     border-top-left-radius: 40px;
     min-height : 200px;
         max-height : 300px;
-max-width: 850px;
+max-width: 930px;
     background-image: url(1.jpg);
 /*    background-size: 100%;*/
     margin-top: 1%;
@@ -240,6 +240,11 @@ height : 85%;
     }
 }
 /*display Change Settings*/
+  @media screen and (min-width: 1510px) {
+  .breadcrum{
+max-width: 530px;
+}
+  }
 @media screen and (min-width: 900px) {
     .breadcrum{
         margin-top: 5%;
