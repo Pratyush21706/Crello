@@ -96,7 +96,7 @@ button{
     border-top-left-radius: 40px;
     min-height : 200px;
         max-height : 300px;
-max-width: 1333px;
+/* max-width: 1333px; */
     background-image: url(1.jpg);
 /*    background-size: 100%;*/
     margin-top: 1%;
